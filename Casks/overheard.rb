@@ -1,6 +1,6 @@
 cask "overheard" do
-  version "0.3.1"
-  sha256 "3a187c0e2e22d08e2c59e69a6c1deb1f279d95644a12cba73bc6a6c6c5592199"
+  version "0.3.2"
+  sha256 "5336cdacf0d19aff99facdab640d07b9873bc3e350ad6f6df04ea71f3e2a52cb"
 
   url "https://github.com/anonbeat1/overheard/releases/download/v#{version}/Overheard-#{version}.dmg"
   name "Overheard"
